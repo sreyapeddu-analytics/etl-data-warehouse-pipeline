@@ -1,0 +1,541 @@
+customer_id,full_name,email,phone,city,state,signup_date,loyalty_tier
+CUST-0230,Priya Jackson,priyajackson229example.com,(214) 555-3031,Frisco,TX,21-05-2023,Bronze
+CUST-0074,sofia patel,Sofia.Patel73@Example.Com,+1 214 555-9431,  Miami,FL,2023-12-01,Silver
+CUST-0492,owen taylor,,214-555-8448,Dallas,TX,08/19/2022,Platinum
+CUST-0087,Liam White,Liam.White86@Example.Com,214-555-5721,Seattle,WA,08/08/2022,BRONZE
+CUST-0470,  Rohan Patel,rohan.patel@,+1 214 555-9189,AUSTIN ,TX,2024-12-24,Gold
+CUST-0078,ETHAN MOORE,Ethan.Moore77@Example.Com,,Austin ,TX,2022-01-22,Gold
+CUST-0298,  Riya Miller,riya.miller297@example.com,214-555-2900,Houston,TX,01/06/2027,Platinum
+CUST-0419,Lucas Lopez,Lucas.Lopez418@Example.Com,+1 214 555-2772,Miami,FL,14-07-2023,silver
+CUST-0343,  Benjamin Kulkarni,Benjamin.Kulkarni342@Example.Com,(214) 555-3950,Chicago,IL,01/24/2024,Gold
+CUST-0384,Zara Nguyen,zara nguyen@383,214-555-8930,boston,MA,2024-09-19,BRONZE
+CUST-0007,Liam Moore,Liam.Moore6@Example.Com,(214) 555-8775,Austin,TX,05/05/2024,Platinum
+CUST-0118,Noah Lopez,NOAH.LOPEZ117@EXAMPLE.COM,+1 214 555-9341,miami,FL,04/25/2022,GOLD
+CUST-0411,priya gupta,Priya.Gupta410@Example.Com,+1 214 555-1953,CHICAGO,IL,07/09/2024,Bronze
+CUST-0076,Elijah Brown,Elijah.Brown75@Example.Com,214-555-1575,,TX,09/30/2022,Silver
+CUST-0273,NOAH SHARMA,Noah.Sharma272@Example.Com,214-555-1830,Seattle,WA,01/22/2024,Silver
+CUST-0196,Liam Lopez,,214-555-3027,Austin,TX,02/20/2024,Bronze
+CUST-0495,Lucas Moore,Lucas.Moore494@Example.Com,214-555-8785,Chicago,IL,2024-03-03,Bronze
+CUST-0102,priya gupta,Priya.Gupta101@Example.Com,214-555-7245,DENVER,CO,2023-12-18,GOLD
+CUST-0498,Ishita Johnson,Ishita.Johnson497@Example.Com,214-555-4466,miami,FL,2024-03-05,Bronze
+CUST-0056,Maya Moore,  Maya.Moore55@Example.Com,214-555-6981,  Boston,MA,2022-01-07,Platinum
+CUST-0374,Ishita Kim,ishita.kim373@example.com,(214) 555-8643,BOSTON,MA,05/01/2023,Bronze
+CUST-0186,Riya Iyer,Riya.Iyer185@Example.Com,+1 214 555-5553,Frisco,TX,2022-12-03,silver
+CUST-0299,  lucas reddy,Lucas.Reddy298@Example.Com,(214) 555-8707,MIAMI,FL,07-01-2027,GOLD
+CUST-0168,Priya Nair,Priya.Nair167@Example.Com,(214) 555-6293,PLANO,TX,03/14/2022,gold
+CUST-0480,Sofia Taylor,Sofia.Taylor479@Example.Com,(214) 555-1659,Plano ,TX,02/23/2024,  GOLD
+CUST-0003,Meera Menon,  MEERA.MENON2@EXAMPLE.COM,214-555-9432,irving,TX,07/20/2023,  Gold
+CUST-0181,Jack Harris,Jack.Harris180@Example.Com,214-555-9269,Boston ,MA,04-12-2024,Platinum
+CUST-0358,Owen Patel,Owen.Patel357@Example.Com,(214) 555-4937,Dallas,TX,01/12/2023,Silver
+CUST-0011,Diya Joshi,Diya.Joshi10@Example.Com,+1 214 555-4492,Austin,TX,06/04/2022,gold
+CUST-0312,Daniel Das,Daniel.Das311@Example.Com,(214) 555-6957,,FL,02/14/2022,Platinum
+CUST-0372,Meera Chen,Meera.Chen371@Example.Com,(214) 555-9769,CHICAGO,IL,2023-05-02,SILVER
+CUST-0177,Aisha Anderson ,Aisha.Anderson176@Example.Com,+1 214 555-5468,Houston,TX,2024-01-14,Gold
+CUST-0246,Liam Johnson,LIAM.JOHNSON245@EXAMPLE.COM,+1 214 555-1271,San Jose,CA,2022-11-04,SILVER
+CUST-0465,Aarav Menon,Aarav.Menon464@Example.Com,(214) 555-4555,AUSTIN,TX,08/17/2023,Platinum 
+CUST-0350,Noah Thomas,Noah.Thomas349@Example.Com,+1 214 555-6783,Seattle,WA,12/15/2022,Gold
+CUST-0077,Anya Kulkarni,anya.kulkarni76@example.com,+1 214 555-1915,Atlanta,GA,02/20/2024,Silver
+CUST-0415,Aarav Anderson,AARAV.ANDERSON414@EXAMPLE.COM,,frisco,TX,01/20/2022,PLATINUM
+CUST-0073,Riya Khan,Riya.Khan72@Example.Com,(214) 555-1644,plano,TX,2022-06-29,Gold
+CUST-0197,mason harris,Mason.Harris196@Example.Com,214-555-5238,San Jose,CA,23-10-2023,
+CUST-0269,Benjamin Nguyen,Benjamin.Nguyen268@Example.Com,+1 214 555-1850,seattle,WA,11/07/2022,Platinum
+CUST-0322,SOFIA JACKSON,Sofia.Jackson321@Example.Com,(214) 555-9641,Atlanta,GA,09/15/2024,platinum
+CUST-0489,Henry Lopez,HENRY.LOPEZ488@EXAMPLE.COM,,Austin,TX,07/01/2022,
+CUST-0141,sana white,Sana.White140@Example.Com,214-555-1063,Boston,MA,07/11/2022,PLATINUM
+CUST-0458,Meera Jackson,Meera.Jackson457@Example.Com,+1 214 555-5324,Frisco,TX,02/06/2024,silver
+CUST-0174,aisha garcia,Aisha.Garcia173@Example.Com,+1 214 555-6134,Dallas,TX,2022-04-05,
+CUST-0080,Daniel Kim,Daniel.Kim79@Example.Com,+1 214 555-7368,  Plano,TX,19-03-2023,Silver
+CUST-0363,ethan kim,ETHAN.KIM362@EXAMPLE.COM,(214) 555-3316,Phoenix,AZ,2022-01-29,Silver
+CUST-0397,Maya Moore,Maya.Moore396@Example.Com,+1 214 555-1324,Dallas,TX,03/22/2024,  GOLD
+CUST-0174,aisha garcia,Aisha.Garcia173@Example.Com,+1 214 555-6134,Dallas,TX,2022-04-05,
+CUST-0031,RIYA ANDERSON,Riya.Anderson30@Example.Com,214-555-1899,Miami,FL,02/27/2022,Silver
+CUST-0236,AISHA WHITE ,AISHA.WHITE235@EXAMPLE.COM,(214) 555-3497,Houston,TX,05/17/2023,Silver
+CUST-0195,Jack Garcia,Jack.Garcia194@Example.Com,+1 214 555-5896,Atlanta,GA,13-08-2024,Platinum
+CUST-0498,Ishita Johnson,Ishita.Johnson497@Example.Com,214-555-4466,miami,FL,2024-03-05,Bronze
+CUST-0010,  Liam Lopez,  Liam.Lopez9@Example.Com,214-555-7298,Frisco,TX,2023-04-14,Gold
+CUST-0102,priya gupta,Priya.Gupta101@Example.Com,214-555-7245,DENVER,CO,2023-12-18,GOLD
+CUST-0326,Ethan Garcia,ethan garcia@325,(214) 555-6060,PHOENIX,AZ,10/11/2022,gold
+CUST-0105,Tara Iyer,Tara.Iyer104@Example.Com,,Houston,TX,20-07-2022,Platinum
+CUST-0447,anya joshi,Anya.Joshi446@Example.Com,214-555-3833,Boston,MA,12/20/2023,Bronze 
+CUST-0371,mason miller,Mason.Miller370@Example.Com,214-555-7415,,TX,11/04/2022,PLATINUM 
+CUST-0159,DIYA GARCIA,Diya.Garcia158@Example.Com,+1 214 555-5970,Austin ,TX,03/09/2022,Bronze
+CUST-0250,Maya Nguyen,,(214) 555-3223,Atlanta,GA,05/17/2023,Gold
+CUST-0317,Aisha Patel,Aisha.Patel316@Example.Com,,Atlanta,GA,09/23/2024,Platinum
+CUST-0077,Anya Kulkarni,anya.kulkarni76@example.com,+1 214 555-1915,Atlanta,GA,02/20/2024,Silver
+CUST-0334,ALEXANDER NGUYEN ,ALEXANDER.NGUYEN333@EXAMPLE.COM,+1 214 555-6109,Dallas,TX,26-03-2023,Silver
+CUST-0071,Tara Menon,Tara.Menon70@Example.Com,,Plano,TX,13-12-2022,Platinum
+CUST-0487,Mason Thomas,masonthomas486example.com,214-555-6036,,IL,07/15/2023,Platinum
+CUST-0461,  Aisha Nguyen,  Aisha.Nguyen460@Example.Com,214-555-9545,  Denver,CO,23-03-2024,Platinum
+CUST-0369,  Aarav Miller,Aarav.Miller368@Example.Com,(214) 555-1179,San Jose ,CA,07-05-2024,Gold
+CUST-0272,AARAV JOSHI,Aarav.Joshi271@Example.Com ,,CHICAGO,IL,14-10-2024,Gold
+CUST-0133,Liam Miller,,(214) 555-6930,Seattle,WA,03-11-2022,Silver
+CUST-0079,James Das,James.Das78@Example.Com,(214) 555-1112,denver,CO,12/19/2024,Silver
+CUST-0150,Maya Nair,MAYA.NAIR149@EXAMPLE.COM,214-555-8039,Seattle ,WA,2022-04-12,Platinum 
+CUST-0336,ALEXANDER GUPTA,Alexander.Gupta335@Example.Com,,Plano,TX,08/15/2022,PLATINUM
+CUST-0209,Zara Wilson,,(214) 555-3760,DALLAS,TX,2024-03-12,Silver
+CUST-0069,Liam Jackson,Liam.Jackson68@Example.Com,+1 214 555-9993,Denver,CO,2023-07-31,BRONZE
+CUST-0251,Priya Menon,Priya.Menon250@Example.Com,+1 214 555-3675,  Irving,TX,08/05/2023,Silver
+CUST-0064,SANA SINGH,Sana.Singh63@Example.Com ,(214) 555-5382,San Jose,CA,16-08-2022,Silver
+CUST-0235,Elijah Chen,  Elijah.Chen234@Example.Com,(214) 555-9677,Frisco,TX,10/16/2022,Gold
+CUST-0210,Tara Miller,Tara.Miller209@Example.Com,+1 214 555-2263,Denver,CO,12-03-2023,GOLD
+CUST-0083,Noah Kim,,+1 214 555-5557,Irving,TX,12/01/2023,Platinum
+CUST-0193,Benjamin Kulkarni,Benjamin.Kulkarni192@Example.Com,+1 214 555-6329,FRISCO,TX,08/28/2022,Bronze
+CUST-0034,JAMES KHAN,JAMES.KHAN33@EXAMPLE.COM,+1 214 555-3898,san jose,CA,06/04/2023,  Bronze
+CUST-0085,Benjamin Davis,Benjamin.Davis84@Example.Com,+1 214 555-1235,Chicago,IL,08/26/2024,Platinum
+CUST-0178,Noah Garcia,Noah.Garcia177@Example.Com,214-555-7131,Boston,MA,2023-01-06,BRONZE
+CUST-0001,liam kim,,+1 214 555-4281,Atlanta,GA,2023-09-06,Silver 
+CUST-0012,Sana Martin,Sana.Martin11@Example.Com,214-555-1846,Atlanta,GA,2023-07-13,Platinum
+CUST-0473,Oliver Wilson,,(214) 555-1261,  Chicago,IL,10-05-2022,Platinum
+CUST-0023,Priya Singh,PRIYA.SINGH22@EXAMPLE.COM,214-555-1116,Phoenix ,AZ,07/08/2022,BRONZE
+CUST-0357,noah lopez,Noah.Lopez356@Example.Com,(214) 555-2978,Phoenix,AZ,2022-07-16,Bronze
+CUST-0091,Riya Iyer ,riya.iyer90@example.com,+1 214 555-5526,PLANO ,TX,05-10-2022,  Platinum
+CUST-0090,  Alexander Nair,,214-555-2418,BOSTON ,MA,12/26/2024,Silver
+CUST-0154,Lucas Iyer,LUCAS.IYER153@EXAMPLE.COM,214-555-1060,Seattle,WA,09/29/2024,Silver
+CUST-0278,Tara Kim,Tara.Kim277@Example.Com,+1 214 555-8949,Denver,CO,06/29/2023,Gold
+CUST-0138,aarav khan,Aarav.Khan137@Example.Com,+1 214 555-9860,Seattle ,WA,04/17/2022,Silver
+CUST-0377,Henry Taylor,Henry.Taylor376@Example.Com,+1 214 555-5707,Boston,MA,05/12/2024,Bronze
+CUST-0132,  James Reddy,,(214) 555-8746,Houston,TX,2024-09-14,Gold
+CUST-0430,aisha anderson,Aisha.Anderson429@Example.Com ,,HOUSTON,TX,2023-08-12,Silver
+CUST-0019,Nisha Wilson,Nisha.Wilson18@Example.Com ,+1 214 555-1858,Frisco,TX,03/28/2022,Bronze
+CUST-0281,Lucas Das,,214-555-3981,,TX,2024-05-18,gold
+CUST-0449,Diya Menon,Diya.Menon448@Example.Com,214-555-6867,Phoenix,AZ,2022-02-26,Silver
+CUST-0016,Tara Kim,TARA.KIM15@EXAMPLE.COM,+1 214 555-4749,San Jose,CA,01/23/2022,silver
+CUST-0308,James Kim,James.Kim307@Example.Com,(214) 555-9892,  PHOENIX,AZ,05/21/2022,Silver
+CUST-0040,Benjamin Sharma,Benjamin.Sharma39@Example.Com,214-555-5976,CHICAGO ,IL,2024-01-26,Silver
+CUST-0499,Rohan Menon,rohan menon@498,214-555-2372,SEATTLE,WA,09/08/2024,Platinum
+CUST-0149,ALEXANDER MENON,Alexander.Menon148@Example.Com,,Chicago,IL,04/26/2022,Silver
+CUST-0047,Riya Davis ,Riya.Davis46@Example.Com,(214) 555-1645,Frisco,TX,06/22/2023,
+CUST-0094,ISHITA JOSHI,Ishita.Joshi93@Example.Com,+1 214 555-1295,,IL,05/14/2024,PLATINUM
+CUST-0407,Riya Davis ,riya.davis406@example.com,214-555-9630,San Jose,CA,03/16/2022,Silver
+CUST-0183,Elijah Menon,Elijah.Menon182@Example.Com ,(214) 555-5889,Atlanta,GA,01/20/2024,Platinum
+CUST-0245,Benjamin Gupta,Benjamin.Gupta244@Example.Com,214-555-5808,Seattle,WA,01/08/2023,bronze
+CUST-0064,SANA SINGH,Sana.Singh63@Example.Com ,(214) 555-5382,San Jose,CA,16-08-2022,Silver
+CUST-0391,Henry Garcia,Henry.Garcia390@Example.Com,+1 214 555-8800,Denver,CO,2022-08-09,Bronze
+CUST-0454,Aarav Davis,Aarav.Davis453@Example.Com,214-555-3819,  San Jose,CA,2024-07-29,Bronze
+CUST-0353,Lucas Menon,Lucas.Menon352@Example.Com,214-555-7348,,IL,01/14/2022,Silver
+CUST-0256,Noah Miller,Noah.Miller255@Example.Com,214-555-1515,Chicago,IL,07/11/2024,Silver
+CUST-0306,Noah Gupta ,Noah.Gupta305@Example.Com,214-555-3354,frisco,TX,12/05/2024,
+CUST-0317,Aisha Patel,Aisha.Patel316@Example.Com,,Atlanta,GA,09/23/2024,Platinum
+CUST-0401,Sana Sharma,Sana.Sharma400@Example.Com,,Plano,TX,10/04/2024,Silver
+CUST-0319,JACK JACKSON,Jack.Jackson318@Example.Com ,,  Plano,TX,2022-08-25,Platinum
+CUST-0239,Anya Martin,ANYA.MARTIN238@EXAMPLE.COM,(214) 555-7051,BOSTON,MA,01/23/2022,Platinum
+CUST-0410,Aarav Garcia,Aarav.Garcia409@Example.Com,(214) 555-9900,San Jose,CA,2022-01-30,
+CUST-0490,benjamin gupta,benjamin.gupta489@example.com ,(214) 555-7550,San Jose,CA,2024-10-26,Platinum
+CUST-0385,Aarav Iyer,Aarav.Iyer384@Example.Com,+1 214 555-8378,Miami,FL,08/27/2023,Gold
+CUST-0070,Elijah Anderson,,214-555-1426,IRVING,TX,07/30/2024,Bronze
+CUST-0383,Jack Miller,Jack.Miller382@Example.Com,214-555-7015,Plano,TX,21-06-2024,Silver
+CUST-0323,Benjamin Nguyen,benjamin.nguyen322@example.com,+1 214 555-4140,Boston,MA,10/25/2023,Platinum
+CUST-0347,Sana Nguyen,Sana.Nguyen346@Example.Com,(214) 555-4958,Irving,TX,21-02-2024,GOLD
+CUST-0356,Sana Nair,Sana.Nair355@Example.Com,+1 214 555-4518,PLANO,TX,2023-03-05,Gold
+CUST-0156,Meera Moore,Meera.Moore155@Example.Com,(214) 555-6576,  Atlanta,GA,09/10/2022,Silver
+CUST-0248,Oliver Reddy,  Oliver.Reddy247@Example.Com,,Seattle,WA,06/17/2022,Silver
+CUST-0125,  Nisha Thomas,Nisha.Thomas124@Example.Com,+1 214 555-5553,  AUSTIN,TX,03/30/2022,Bronze 
+CUST-0382,JACK NAIR,,(214) 555-5772,Denver,CO,2023-10-08,Gold
+CUST-0205,Riya Kim,Riya.Kim204@Example.Com,214-555-5534,Plano,TX,2024-12-04,Silver
+CUST-0173,Tara Jackson,Tara.Jackson172@Example.Com,214-555-8686,,IL,09/14/2023,Bronze
+CUST-0212,AISHA MOORE,  Aisha.Moore211@Example.Com,214-555-4482,Frisco,TX,02/14/2024,Silver
+CUST-0398,Priya Patel,PRIYA.PATEL397@EXAMPLE.COM,(214) 555-3371,Plano ,TX,02/17/2023,silver
+CUST-0069,Liam Jackson,Liam.Jackson68@Example.Com,+1 214 555-9993,Denver,CO,2023-07-31,BRONZE
+CUST-0478,Aarav Anderson,Aarav.Anderson477@Example.Com,214-555-5860,Frisco,TX,2023-04-26,
+CUST-0211,Zara White,Zara.White210@Example.Com,+1 214 555-5011,Austin,TX,04/26/2024,Bronze
+CUST-0300,aarav miller,aaravmiller299example.com,(214) 555-1811,Boston,MA,08-09-2024,PLATINUM
+CUST-0427,Nisha Taylor,,(214) 555-5200,Dallas,TX,09/15/2023,Gold
+CUST-0020,  Riya Anderson,  Riya.Anderson19@Example.Com,(214) 555-7310,Phoenix,AZ,2024-07-26,GOLD
+CUST-0368,anya nair,Anya.Nair367@Example.Com,,Atlanta,GA,2022-10-11,Platinum
+CUST-0057,James Martin,James.Martin56@Example.Com,,Plano,TX,26-03-2023,Silver
+CUST-0219,RIYA LOPEZ,Riya.Lopez218@Example.Com,214-555-3633,Boston,MA,08/08/2024,SILVER
+CUST-0451,Jack Garcia,Jack.Garcia450@Example.Com,214-555-5597,Atlanta,GA,2024-09-04,Gold
+CUST-0439,Liam Miller,Liam.Miller438@Example.Com,214-555-2454,Dallas,TX,2023-07-23,Platinum
+CUST-0441,Sana White,sana.white@,(214) 555-9366,Denver,CO,2024-06-30,Bronze
+CUST-0375,owen white,Owen.White374@Example.Com,214-555-3292,DALLAS,TX,20-10-2024,Platinum
+CUST-0026,Meera Reddy,Meera.Reddy25@Example.Com,(214) 555-7259,Austin,TX,2023-03-04,Gold
+CUST-0279,maya khan,Maya.Khan278@Example.Com,214-555-6165,Miami,FL,2024-06-11,Silver
+CUST-0043,Aisha Singh,Aisha.Singh42@Example.Com,(214) 555-1912,Plano,TX,2022-03-26,Silver
+CUST-0440,Ishita Moore,Ishita.Moore439@Example.Com,(214) 555-3373,Seattle ,WA,2023-05-01,Bronze
+CUST-0249,tara reddy,Tara.Reddy248@Example.Com,(214) 555-4150,Chicago,IL,07/24/2022,  Gold
+CUST-0433,Alexander Lopez,Alexander.Lopez432@Example.Com,,Irving,TX,2024-11-05,  Silver
+CUST-0334,ALEXANDER NGUYEN ,ALEXANDER.NGUYEN333@EXAMPLE.COM,+1 214 555-6109,Dallas,TX,26-03-2023,Silver
+CUST-0155,Riya Taylor ,Riya.Taylor154@Example.Com,+1 214 555-7761,San Jose,CA,2024-04-02,Gold
+CUST-0127,  liam johnson,Liam.Johnson126@Example.Com,214-555-5600,MIAMI ,FL,03/03/2024,Platinum
+CUST-0276,Elijah Menon ,Elijah.Menon275@Example.Com,,Boston,MA,16-12-2022,GOLD
+CUST-0362,owen kulkarni,Owen.Kulkarni361@Example.Com,214-555-3916,Boston,MA,11/19/2023,gold
+CUST-0032,ethan nguyen,ethan.nguyen31@example.com,(214) 555-2192,BOSTON,MA,02/24/2023,Gold
+CUST-0114,Riya Brown,Riya.Brown113@Example.Com,214-555-4953,Plano,TX,10/03/2024,bronze
+CUST-0381,Aarav Garcia,Aarav.Garcia380@Example.Com,+1 214 555-8291,Austin,TX,2023-03-11,SILVER
+CUST-0474,Elijah Wilson,Elijah.Wilson473@Example.Com,214-555-6842,  Phoenix,AZ,02/27/2023,Platinum
+CUST-0370,Tara Patel,  Tara.Patel369@Example.Com,214-555-7456,Atlanta,GA,06/16/2024,BRONZE
+CUST-0058,Noah Das,Noah.Das57@Example.Com,(214) 555-1847,Houston,TX,09/20/2024,
+CUST-0333,Anya Miller,Anya.Miller332@Example.Com,214-555-9420,Houston,TX,2024-06-05,Gold
+CUST-0025,Tara Reddy,Tara.Reddy24@Example.Com,214-555-8306,  Atlanta,GA,11/26/2023,bronze
+CUST-0018,sofia patel,Sofia.Patel17@Example.Com,,Phoenix,AZ,2023-07-05,Platinum
+CUST-0457,noah davis,Noah.Davis456@Example.Com,+1 214 555-2217,Miami,FL,12/10/2022,silver
+CUST-0067,rohan chen,ROHAN.CHEN66@EXAMPLE.COM,,Phoenix,AZ,11/30/2023,Silver
+CUST-0229,James Wilson,JAMES.WILSON228@EXAMPLE.COM,(214) 555-3218,DALLAS,TX,06/06/2023,Silver
+CUST-0483,zara taylor,ZARA.TAYLOR482@EXAMPLE.COM,(214) 555-2973,  Seattle,WA,11/07/2022,Silver
+CUST-0085,Benjamin Davis,Benjamin.Davis84@Example.Com,+1 214 555-1235,Chicago,IL,08/26/2024,Platinum
+CUST-0443,Sofia Kulkarni,Sofia.Kulkarni442@Example.Com,(214) 555-5933,Seattle,WA,2022-07-20,Platinum
+CUST-0095,  Owen Reddy,Owen.Reddy94@Example.Com,+1 214 555-1348,Dallas,TX,05/21/2022,GOLD
+CUST-0185,ELIJAH SINGH,,+1 214 555-1986,HOUSTON,TX,07/18/2022,SILVER
+CUST-0292,Lucas Miller,Lucas.Miller291@Example.Com,214-555-7385,dallas,TX,04/12/2022,Platinum
+CUST-0024,ROHAN IYER,Rohan.Iyer23@Example.Com,(214) 555-3975,Phoenix,AZ,05/21/2024,PLATINUM
+CUST-0266,Kavya Gupta,Kavya.Gupta265@Example.Com,+1 214 555-1479,Austin,TX,09-03-2024,Silver
+CUST-0288,Kavya White ,Kavya.White287@Example.Com,(214) 555-6743,Irving,TX,05/20/2022,Gold 
+CUST-0484,Tara Jackson,Tara.Jackson483@Example.Com,(214) 555-6319,BOSTON,MA,2024-08-21,Bronze
+CUST-0006,nisha miller,  NISHA.MILLER5@EXAMPLE.COM,,Frisco ,TX,11-03-2024,Silver
+CUST-0117,maya lopez,mayalopez116example.com,,austin,TX,12/16/2023,Bronze
+CUST-0046,Sana Patel,sana.patel45@example.com,,seattle,WA,10/01/2022,Gold
+CUST-0232,Nisha Davis,Nisha.Davis231@Example.Com,(214) 555-9011,Atlanta,GA,08/02/2023,Gold
+CUST-0305,James Martin ,james.martin304@example.com,214-555-5180,Irving,TX,09-01-2022,gold
+CUST-0017,Diya Das,Diya.Das16@Example.Com,,dallas,TX,05/17/2022,BRONZE
+CUST-0049,daniel moore,  Daniel.Moore48@Example.Com,214-555-2698,Seattle,WA,12/28/2022,Platinum 
+CUST-0396,Owen Thomas,Owen.Thomas395@Example.Com,+1 214 555-6274,  BOSTON,MA,01/20/2022,BRONZE
+CUST-0004,Riya Das,Riya.Das3@Example.Com,+1 214 555-5423,Boston ,MA,09/21/2024,Silver
+CUST-0413,Lucas Brown,Lucas.Brown412@Example.Com,(214) 555-7252,boston,MA,03/18/2022,Bronze
+CUST-0223,Aisha Nair,aisha.nair222@example.com,214-555-8824,San Jose,CA,19-12-2023,Bronze
+CUST-0061,Rohan Taylor,,,Miami ,FL,01/14/2024,Platinum
+CUST-0409,Jack Brown,Jack.Brown408@Example.Com,,Atlanta,GA,06/04/2023,Silver
+CUST-0111,LUCAS NAIR,Lucas.Nair110@Example.Com,214-555-9300,Miami,FL,2023-01-16,Bronze
+CUST-0354,Riya Lopez ,riya.lopez353@example.com,(214) 555-3549,Chicago,IL,08/11/2022,Bronze
+CUST-0290,ELIJAH SHARMA,Elijah.Sharma289@Example.Com,+1 214 555-8376,CHICAGO ,IL,02/08/2024,Bronze
+CUST-0030,Riya Kulkarni,RIYA.KULKARNI29@EXAMPLE.COM,(214) 555-2008,  PLANO,TX,02/06/2022,  Gold
+CUST-0335,riya nair,Riya.Nair334@Example.Com,+1 214 555-6076,Frisco,TX,2023-03-18,BRONZE
+CUST-0453,Elijah Thomas,ELIJAH.THOMAS452@EXAMPLE.COM,+1 214 555-2116,denver,CO,2024-01-28,Silver
+CUST-0027,Oliver Kulkarni ,OLIVER.KULKARNI26@EXAMPLE.COM,+1 214 555-8269,Miami,FL,01-01-2022,Platinum
+CUST-0008,Daniel Lopez ,Daniel.Lopez7@Example.Com ,214-555-3594,Irving,TX,11/18/2023,BRONZE
+CUST-0182,Noah Nguyen,  Noah.Nguyen181@Example.Com,+1 214 555-6484,San Jose,CA,10/08/2022,SILVER
+CUST-0362,owen kulkarni,Owen.Kulkarni361@Example.Com,214-555-3916,Boston,MA,11/19/2023,gold
+CUST-0109,elijah joshi,elijah joshi@108,214-555-5093,Chicago,IL,08/23/2024,Bronze
+CUST-0038,Alexander Kim,ALEXANDER.KIM37@EXAMPLE.COM,(214) 555-8216,,GA,02/04/2022,Platinum
+CUST-0158,James Thomas,  james.thomas157@example.com,+1 214 555-4952,Phoenix ,AZ,16-01-2024,silver
+CUST-0372,Meera Chen,Meera.Chen371@Example.Com,(214) 555-9769,CHICAGO,IL,2023-05-02,SILVER
+CUST-0119,Zara Patel,Zara.Patel118@Example.Com,,  Plano,TX,28-09-2024,BRONZE 
+CUST-0115,Diya White,DIYA.WHITE114@EXAMPLE.COM ,+1 214 555-2244,houston,TX,11/27/2024,Bronze
+CUST-0287,Noah Sharma,Noah.Sharma286@Example.Com,+1 214 555-9411,Dallas,TX,08-06-2023,  BRONZE
+CUST-0204,Daniel Singh,Daniel.Singh203@Example.Com,214-555-5628,Denver,CO,26-03-2024,Gold
+CUST-0176,Riya Harris,Riya.Harris175@Example.Com,+1 214 555-7462,Phoenix,AZ,2022-04-01,SILVER
+CUST-0226,Anya Kim,Anya.Kim225@Example.Com,(214) 555-5510,PLANO,TX,12/11/2024,gold 
+CUST-0221,Sofia Nguyen,Sofia.Nguyen220@Example.Com,214-555-1781,Frisco,TX,2023-08-12,Platinum
+CUST-0145,SANA GUPTA,Sana.Gupta144@Example.Com,(214) 555-7110,Denver,CO,2022-08-13,PLATINUM
+CUST-0195,Jack Garcia,Jack.Garcia194@Example.Com,+1 214 555-5896,Atlanta,GA,13-08-2024,Platinum
+CUST-0409,Jack Brown,Jack.Brown408@Example.Com,,Atlanta,GA,06/04/2023,Silver
+CUST-0421,Rohan Das,ROHAN.DAS420@EXAMPLE.COM,+1 214 555-1492,denver,CO,06/07/2024,Platinum
+CUST-0238,Oliver Johnson,Oliver.Johnson237@Example.Com,214-555-6045,Atlanta,GA,2022-12-08,Bronze
+CUST-0282,Elijah Jackson,elijah.jackson281@example.com,+1 214 555-4950,san jose ,CA,30-01-2022,Platinum
+CUST-0404,Sana Das,,(214) 555-2887,Boston,MA,2023-12-10,gold
+CUST-0281,Lucas Das,,214-555-3981,,TX,2024-05-18,gold
+CUST-0142,Ethan Kulkarni,Ethan.Kulkarni141@Example.Com ,(214) 555-3376,Plano,TX,09/06/2024,Bronze 
+CUST-0405,Elijah Miller,Elijah.Miller404@Example.Com,,BOSTON ,MA,25-10-2024,Gold
+CUST-0068,  Ishita Lopez,Ishita.Lopez67@Example.Com,214-555-3872,Phoenix ,AZ,11/03/2022,Bronze 
+CUST-0297,Nisha Joshi,Nisha.Joshi296@Example.Com,+1 214 555-8161,Frisco,TX,03/20/2023,Bronze
+CUST-0228,Kavya Garcia,Kavya.Garcia227@Example.Com,,seattle ,WA,05/28/2022,Silver
+CUST-0169,Mason Kulkarni,Mason.Kulkarni168@Example.Com,,PLANO,TX,2023-05-08,GOLD
+CUST-0189,zara miller,Zara.Miller188@Example.Com,214-555-1438,BOSTON,MA,2023-01-02,PLATINUM
+CUST-0496,Oliver Thomas,Oliver.Thomas495@Example.Com,214-555-5351,Houston,TX,2024-03-10,SILVER
+CUST-0416,  Daniel Miller,Daniel.Miller415@Example.Com,214-555-2423,Seattle,WA,11/11/2024,Bronze 
+CUST-0417,Sana Taylor,Sana.Taylor416@Example.Com,(214) 555-2289,SAN JOSE,CA,01/28/2022,Silver
+CUST-0194,Mason Menon,Mason.Menon193@Example.Com,(214) 555-3731,  Atlanta,GA,09/13/2023,Silver
+CUST-0082,Riya Nair,,+1 214 555-4658,Miami,FL,08/11/2023,  Silver
+CUST-0110,Aisha Nair,Aisha.Nair109@Example.Com,(214) 555-3580,Irving ,TX,2024-02-05,Bronze
+CUST-0321,Anya Sharma,Anya.Sharma320@Example.Com,214-555-5722,  San Jose,CA,24-12-2024,Bronze
+CUST-0146,Nisha Reddy,Nisha.Reddy145@Example.Com,(214) 555-3952,houston,TX,2022-03-19,Silver
+CUST-0093,Nisha Lopez,nisha.lopez92@example.com,+1 214 555-7963,Atlanta,GA,2024-02-22,Platinum
+CUST-0153,ROHAN CHEN,ROHAN.CHEN152@EXAMPLE.COM ,(214) 555-5059,Dallas,TX,2024-03-28,Platinum
+CUST-0262,Priya Taylor,Priya.Taylor261@Example.Com,+1 214 555-6496,Austin ,TX,10/12/2024,Platinum
+CUST-0435,riya miller,Riya.Miller434@Example.Com,214-555-7444,Boston ,MA,04/18/2024,Gold 
+CUST-0448,Jack Nguyen,Jack.Nguyen447@Example.Com,+1 214 555-8167,Chicago ,IL,10/04/2023,Bronze
+CUST-0395,  aisha martin,Aisha.Martin394@Example.Com,(214) 555-9188,Denver ,CO,03/06/2022,Bronze
+CUST-0084,Alexander Patel,alexanderpatel83example.com,(214) 555-9496,CHICAGO,IL,19-05-2023,SILVER
+CUST-0104,aarav nguyen,Aarav.Nguyen103@Example.Com,(214) 555-9033,Frisco,TX,09/11/2024,Silver
+CUST-0166,  alexander white,alexanderwhite165example.com,(214) 555-7086,Seattle ,WA,09/19/2022,Platinum
+CUST-0164,Oliver Chen,Oliver.Chen163@Example.Com ,(214) 555-8544,Chicago,IL,04/14/2024,Bronze
+CUST-0200,Jack Garcia,Jack.Garcia199@Example.Com,214-555-5978,frisco,TX,11/21/2024,Silver
+CUST-0330,James Sharma,james.sharma329@example.com,(214) 555-3811,Irving,TX,04/14/2024,Silver
+CUST-0075,Daniel Sharma,Daniel.Sharma74@Example.Com ,+1 214 555-6549,Miami,FL,2026-05-28,  Gold
+CUST-0342,lucas jackson,Lucas.Jackson341@Example.Com,214-555-5904,DALLAS,TX,2022-11-24,Platinum 
+CUST-0258,Sofia Brown,Sofia.Brown257@Example.Com,(214) 555-7114,Dallas,TX,2023-09-06,Gold
+CUST-0031,RIYA ANDERSON,Riya.Anderson30@Example.Com,214-555-1899,Miami,FL,02/27/2022,Silver
+CUST-0120,Sofia Nguyen,Sofia.Nguyen119@Example.Com,(214) 555-7226,Dallas,TX,2022-05-27,Gold
+CUST-0311,Meera Patel,Meera.Patel310@Example.Com,+1 214 555-5612,Seattle,WA,05/23/2022,Platinum
+CUST-0349,Priya Iyer,Priya.Iyer348@Example.Com,214-555-3546,,WA,2024-12-28,Bronze
+CUST-0393,Ishita Moore,ISHITA.MOORE392@EXAMPLE.COM,(214) 555-6039,Irving,TX,08/27/2023,Platinum
+CUST-0442,Anya Davis,anya.davis441@example.com,,Houston,TX,09/02/2023,
+CUST-0423,HENRY MILLER,  HENRY.MILLER422@EXAMPLE.COM,214-555-1785,Frisco,TX,05/20/2022,Silver
+CUST-0275,Oliver Nair ,Oliver.Nair274@Example.Com,(214) 555-3694,chicago,IL,07/15/2023,Silver
+CUST-0365,Sofia Nair,Sofia.Nair364@Example.Com,+1 214 555-2833,chicago,IL,08/21/2024,Gold
+CUST-0424,Kavya Nguyen,KAVYA.NGUYEN423@EXAMPLE.COM,(214) 555-6230,Seattle,WA,01/20/2022,Bronze
+CUST-0303,Aarav Moore,Aarav.Moore302@Example.Com,+1 214 555-1763,Chicago,IL,2024-02-06,Silver
+CUST-0037,Nisha Miller,nisha miller@36,+1 214 555-6005,Boston,MA,2022-03-07,Gold
+CUST-0140,Riya Menon ,RIYA.MENON139@EXAMPLE.COM ,+1 214 555-3958,Miami,FL,01/07/2024,Gold 
+CUST-0254,Anya Menon,Anya.Menon253@Example.Com,,,TX,01/11/2024,Platinum
+CUST-0389,Owen Sharma,Owen.Sharma388@Example.Com,+1 214 555-5903,Dallas,TX,03/06/2022,Gold 
+CUST-0060,Daniel Nair,Daniel.Nair59@Example.Com,(214) 555-4789,Irving,TX,03/19/2022,Gold
+CUST-0112,TARA MILLER,Tara.Miller111@Example.Com,214-555-2823,Denver,CO,15-06-2023,gold
+CUST-0291,  Alexander Garcia,Alexander.Garcia290@Example.Com,+1 214 555-9656,Boston,MA,08/02/2024,Silver
+CUST-0355,Sana Khan,,214-555-3499,Chicago,IL,18-05-2022,Bronze
+CUST-0263,Lucas Menon,  Lucas.Menon262@Example.Com,(214) 555-4112,  Boston,MA,11/02/2022,Platinum
+CUST-0400,Anya Thomas,  Anya.Thomas399@Example.Com,+1 214 555-1838,Miami,FL,2022-09-10,Bronze 
+CUST-0151,Nisha Wilson,Nisha.Wilson150@Example.Com,(214) 555-9119,BOSTON,MA,2023-11-04,BRONZE
+CUST-0267,Riya Thomas,Riya.Thomas266@Example.Com,(214) 555-2538,Atlanta,GA,30-08-2024,SILVER
+CUST-0422,Daniel Anderson,DANIEL.ANDERSON421@EXAMPLE.COM,+1 214 555-5440,HOUSTON,TX,09/06/2024,PLATINUM
+CUST-0039,Lucas Taylor,Lucas.Taylor38@Example.Com,(214) 555-5252,Atlanta,GA,04/19/2022,GOLD
+CUST-0348,JACK PATEL,JACK.PATEL347@EXAMPLE.COM,+1 214 555-1359,Seattle,WA,07/25/2022,Bronze
+CUST-0199,MASON PATEL,,(214) 555-8666,Plano,TX,07/13/2022,  silver
+CUST-0285,Riya Wilson,Riya.Wilson284@Example.Com,+1 214 555-8668,HOUSTON,TX,2024-12-29,BRONZE
+CUST-0147,Maya Miller,,(214) 555-7226,Chicago,IL,2024-06-01,Bronze
+CUST-0434,sofia jackson,  SOFIA.JACKSON433@EXAMPLE.COM,+1 214 555-4056,SEATTLE,WA,22-12-2024,Platinum
+CUST-0148,Zara Taylor,ZARA.TAYLOR147@EXAMPLE.COM,214-555-1008,Denver,CO,2024-07-16,Platinum
+CUST-0450,Lucas Khan,Lucas.Khan449@Example.Com,214-555-5319,ATLANTA,GA,24-06-2023,BRONZE
+CUST-0486,Ethan Jackson,Ethan.Jackson485@Example.Com,214-555-3655,Dallas,TX,03/21/2023,Gold
+CUST-0124,Elijah Davis,Elijah.Davis123@Example.Com ,214-555-5642,Plano,TX,06/25/2023,Gold
+CUST-0408,Noah Singh,Noah.Singh407@Example.Com ,+1 214 555-7433,Phoenix,AZ,2024-08-16,Gold
+CUST-0097,zara anderson,,214-555-6044,  Boston,MA,2023-01-14,Gold
+CUST-0144,Oliver Wilson,Oliver.Wilson143@Example.Com,(214) 555-8909,Dallas,TX,18-01-2024,  Bronze
+CUST-0240,Benjamin Das,Benjamin.Das239@Example.Com,(214) 555-2707,IRVING ,TX,2024-12-05,GOLD
+CUST-0302,Alexander Reddy,ALEXANDER.REDDY301@EXAMPLE.COM,+1 214 555-3785,Plano,TX,10/06/2023,Bronze
+CUST-0098,DANIEL GUPTA,Daniel.Gupta97@Example.Com,214-555-7100,  atlanta,GA,11/01/2023,Gold
+CUST-0437,Kavya Nguyen,Kavya.Nguyen436@Example.Com,(214) 555-5845,boston,MA,08/18/2024,
+CUST-0294,Anya Iyer,Anya.Iyer293@Example.Com,214-555-6161,Denver,CO,08/18/2024,
+CUST-0389,Owen Sharma,Owen.Sharma388@Example.Com,+1 214 555-5903,Dallas,TX,03/06/2022,Gold 
+CUST-0123,Meera Nguyen,MEERA.NGUYEN122@EXAMPLE.COM,(214) 555-8901,Denver,CO,2024-11-03,PLATINUM
+CUST-0184,Daniel Menon ,Daniel.Menon183@Example.Com,214-555-5687,,AZ,28-05-2023,Platinum 
+CUST-0203,Elijah Singh,Elijah.Singh202@Example.Com,214-555-9331,Plano,TX,08-10-2022,Bronze
+CUST-0247,Henry Moore,Henry.Moore246@Example.Com ,214-555-2587,Irving,TX,14-06-2022,Platinum
+CUST-0339,Ethan Sharma,Ethan.Sharma338@Example.Com,+1 214 555-8567,Chicago,IL,2023-10-08,Bronze
+CUST-0491,ROHAN JOHNSON,rohan.johnson490@example.com,214-555-5666,  Dallas,TX,10/09/2023,Bronze
+CUST-0463,Henry Nair,Henry.Nair462@Example.Com,214-555-8452,phoenix,AZ,06/20/2027,Bronze
+CUST-0332,ISHITA LOPEZ,Ishita.Lopez331@Example.Com,214-555-6994,Houston,TX,07/22/2023,  platinum
+CUST-0438,Rohan Nguyen,Rohan.Nguyen437@Example.Com,(214) 555-5457,Atlanta,GA,2024-03-08,Bronze
+CUST-0313,Sofia White,,214-555-9457,  MIAMI,FL,2024-09-08,Platinum
+CUST-0126,James Chen,James.Chen125@Example.Com,+1 214 555-6928,,CO,03/28/2023,Bronze
+CUST-0335,riya nair,Riya.Nair334@Example.Com,+1 214 555-6076,Frisco,TX,2023-03-18,BRONZE
+CUST-0224,Ethan Kim,Ethan.Kim223@Example.Com,(214) 555-9560,Atlanta,GA,2023-11-27,Silver
+CUST-0462,Noah Davis,Noah.Davis461@Example.Com,(214) 555-5923,Frisco,TX,02/17/2024,Gold 
+CUST-0220,Rohan Anderson,,(214) 555-3952,Frisco,TX,05/21/2023,Silver
+CUST-0130,Meera Johnson,Meera.Johnson129@Example.Com,(214) 555-8080,ATLANTA,GA,10/27/2023,Silver
+CUST-0378,Henry Martin,HENRY.MARTIN377@EXAMPLE.COM,+1 214 555-6580,San Jose,CA,23-01-2022,Platinum
+CUST-0324,ROHAN JACKSON,Rohan.Jackson323@Example.Com,(214) 555-2993,Austin,TX,08/04/2022,PLATINUM
+CUST-0500,Oliver Moore ,Oliver.Moore499@Example.Com,+1 214 555-5312,,TX,09/05/2022,Platinum
+CUST-0418,Sofia Gupta,SOFIA.GUPTA417@EXAMPLE.COM ,214-555-2304,dallas,TX,05/21/2024,Bronze
+CUST-0497,SOFIA MOORE,Sofia.Moore496@Example.Com,214-555-8183,Dallas,TX,08/02/2022,Bronze
+CUST-0394,Kavya Joshi,Kavya.Joshi393@Example.Com,+1 214 555-8457,Frisco,TX,12/19/2022,Platinum
+CUST-0325,  Sana Thomas,Sana.Thomas324@Example.Com,(214) 555-1209,DENVER,CO,04/03/2022,Platinum
+CUST-0295,James Davis,JAMES.DAVIS294@EXAMPLE.COM,+1 214 555-2505,Atlanta,GA,2022-02-16,Silver
+CUST-0406,DIYA HARRIS,Diya.Harris405@Example.Com,+1 214 555-3657,San Jose,CA,20-12-2022,
+CUST-0376,  Liam Moore,Liam.Moore375@Example.Com,+1 214 555-6969,Boston,MA,2024-06-09,bronze
+CUST-0337,jack iyer,jack.iyer336@example.com,(214) 555-4511,  Boston,MA,05/03/2023,Silver
+CUST-0113,James Gupta,  James.Gupta112@Example.Com,+1 214 555-5940,  Houston,TX,21-06-2023,Silver
+CUST-0180,Diya Menon,  Diya.Menon179@Example.Com,(214) 555-9890,HOUSTON,TX,2022-07-29,bronze
+CUST-0341,Meera Khan,meera.khan340@example.com,214-555-1279,San Jose,CA,08/07/2023,  PLATINUM
+CUST-0375,owen white,Owen.White374@Example.Com,214-555-3292,DALLAS,TX,20-10-2024,Platinum
+CUST-0366,Diya White,DIYA.WHITE365@EXAMPLE.COM,+1 214 555-2078,Irving,TX,05/23/2024,Bronze
+CUST-0315,Zara Gupta,ZARA.GUPTA314@EXAMPLE.COM ,214-555-8131,,CO,06/21/2022,  Bronze
+CUST-0152,Lucas Jackson,Lucas.Jackson151@Example.Com,,San Jose,CA,02/01/2022,Gold
+CUST-0399,Lucas Garcia,  Lucas.Garcia398@Example.Com,(214) 555-6841,houston,TX,07/08/2024,Platinum
+CUST-0234,Henry Gupta,Henry.Gupta233@Example.Com,214-555-2437,  Frisco,TX,04/07/2023,gold
+CUST-0494,  Benjamin Davis,Benjamin.Davis493@Example.Com,(214) 555-3410,ATLANTA ,GA,2023-04-12,GOLD 
+CUST-0426,Priya Menon,Priya.Menon425@Example.Com,,Seattle,WA,2024-01-18,Bronze
+CUST-0165,Oliver Anderson,OLIVER.ANDERSON164@EXAMPLE.COM,214-555-7299,San Jose,CA,02/05/2024,PLATINUM
+CUST-0318,Aisha Kim,Aisha.Kim317@Example.Com,(214) 555-9655,Austin,TX,12/28/2024,BRONZE
+CUST-0137,  BENJAMIN LOPEZ,Benjamin.Lopez136@Example.Com,+1 214 555-6062,CHICAGO,IL,05/09/2022,Silver
+CUST-0198,  SOFIA ANDERSON,Sofia.Anderson197@Example.Com,+1 214 555-9977,Chicago,IL,08/30/2024,  GOLD
+CUST-0259,Priya Kim,Priya.Kim258@Example.Com,(214) 555-4777,Seattle,WA,05/25/2023,Silver
+CUST-0233,Aarav Kulkarni,Aarav.Kulkarni232@Example.Com,214-555-7250,Frisco,TX,2024-02-26,BRONZE 
+CUST-0116,kavya jackson,Kavya.Jackson115@Example.Com,(214) 555-9766,AUSTIN,TX,06/02/2024,Platinum
+CUST-0121,riya miller,Riya.Miller120@Example.Com,+1 214 555-1619,ATLANTA,GA,07/02/2022,
+CUST-0387,Liam Patel ,Liam.Patel386@Example.Com,(214) 555-4476,Boston,MA,2023-11-09,Silver
+CUST-0225,  Aisha Gupta,Aisha.Gupta224@Example.Com,+1 214 555-3581,dallas,TX,2024-05-07,Gold
+CUST-0445,Diya Kim,Diya.Kim444@Example.Com,,Dallas,TX,03/16/2022,Gold
+CUST-0212,AISHA MOORE,  Aisha.Moore211@Example.Com,214-555-4482,Frisco,TX,02/14/2024,Silver
+CUST-0128,Henry Brown,Henry.Brown127@Example.Com,,SEATTLE,WA,12/25/2024,Silver
+CUST-0476,TARA CHEN,Tara.Chen475@Example.Com,(214) 555-4324,Houston,TX,04-05-2024,  Silver
+CUST-0286,Jack Anderson,Jack.Anderson285@Example.Com,214-555-7571,Austin,TX,06/01/2023,silver
+CUST-0479,Meera Johnson,meerajohnson478example.com,(214) 555-5852,frisco,TX,06/10/2022,GOLD
+CUST-0407,Riya Davis ,riya.davis406@example.com,214-555-9630,San Jose,CA,03/16/2022,Silver
+CUST-0108,Meera Moore,Meera.Moore107@Example.Com,,Plano,TX,05/20/2022,Silver
+CUST-0210,Tara Miller,Tara.Miller209@Example.Com,+1 214 555-2263,Denver,CO,12-03-2023,GOLD
+CUST-0361,nisha joshi,,(214) 555-4093,Chicago,IL,01/16/2022,silver
+CUST-0134,James Brown,,214-555-2387,Dallas,TX,12/22/2024,Silver
+CUST-0403,Anya Chen,,+1 214 555-2600,Miami,FL,22-04-2022,Bronze
+CUST-0045,  Liam Iyer,liam.iyer44@example.com ,,Dallas,TX,2024-12-15,SILVER
+CUST-0451,Jack Garcia,Jack.Garcia450@Example.Com,214-555-5597,Atlanta,GA,2024-09-04,Gold
+CUST-0066,ANYA LOPEZ,ANYA.LOPEZ65@EXAMPLE.COM,+1 214 555-5312,HOUSTON,TX,07/28/2023,Platinum
+CUST-0284,ELIJAH KIM,elijah.kim283@example.com,+1 214 555-9929,phoenix,AZ,07/10/2023,BRONZE
+CUST-0086,AISHA KULKARNI,Aisha.Kulkarni85@Example.Com,214-555-4299,Dallas ,TX,11/19/2024,BRONZE
+CUST-0243,Liam Jackson,Liam.Jackson242@Example.Com,(214) 555-1556,  Plano,TX,2024-05-26,Platinum
+CUST-0187,Noah Davis,Noah.Davis186@Example.Com,+1 214 555-1977,Frisco,TX,2022-01-16,GOLD
+CUST-0425,Oliver Lopez,,(214) 555-4348,San Jose,CA,17-05-2022,Platinum
+CUST-0160,Tara Khan,tara.khan159@example.com,214-555-5973,Dallas,TX,08/12/2023,Bronze
+CUST-0013,  Henry Nair,HENRY.NAIR12@EXAMPLE.COM,214-555-9385,san jose,CA,27-03-2026,  Platinum
+CUST-0036,Maya Nguyen,MAYA.NGUYEN35@EXAMPLE.COM,+1 214 555-3699,denver,CO,2022-10-07,  Silver
+CUST-0029,james kulkarni,James.Kulkarni28@Example.Com,214-555-5351,Miami,FL,21-05-2024,Gold
+CUST-0171,Sofia Menon,sofia.menon@,214-555-8346,SAN JOSE,CA,05/05/2022,Platinum 
+CUST-0143,Lucas Nair,Lucas.Nair142@Example.Com,(214) 555-1363,Seattle,WA,2022-04-23,Bronze
+CUST-0441,Sana White,sana.white@,(214) 555-9366,Denver,CO,2024-06-30,Bronze
+CUST-0378,Henry Martin,HENRY.MARTIN377@EXAMPLE.COM,+1 214 555-6580,San Jose,CA,23-01-2022,Platinum
+CUST-0222,Riya Kulkarni,Riya.Kulkarni221@Example.Com,,Houston,TX,17-11-2023,Platinum
+CUST-0096,Lucas Iyer,Lucas.Iyer95@Example.Com ,(214) 555-5458,,CA,2023-09-01,Silver
+CUST-0052,Priya Brown,Priya.Brown51@Example.Com,(214) 555-6774,Denver ,CO,04-06-2023,Platinum
+CUST-0241,Noah Iyer,Noah.Iyer240@Example.Com ,+1 214 555-9685,Austin,TX,08/03/2022,Silver
+CUST-0412,Ethan Singh,ethan.singh411@example.com,214-555-3839,plano,TX,01/14/2024,Silver
+CUST-0352,Maya Iyer,,+1 214 555-5574,Chicago,IL,06-03-2024,gold
+CUST-0468,Kavya Reddy,Kavya.Reddy467@Example.Com,(214) 555-2068,ATLANTA,GA,2024-09-03,
+CUST-0179,Rohan Moore,Rohan.Moore178@Example.Com,214-555-9630,Irving,TX,03/19/2022,Gold
+CUST-0432,Henry White,HENRY.WHITE431@EXAMPLE.COM,,Irving,TX,2023-01-12,BRONZE
+CUST-0042,  HENRY PATEL,Henry.Patel41@Example.Com,,frisco ,TX,04/22/2023,Gold
+CUST-0482,  Alexander Harris,ALEXANDER.HARRIS481@EXAMPLE.COM,214-555-8522,Atlanta,GA,09-02-2022,Platinum
+CUST-0429,AARAV DAVIS,Aarav.Davis428@Example.Com,214-555-4807,Austin,TX,09/14/2022,BRONZE
+CUST-0207,henry sharma,Henry.Sharma206@Example.Com,(214) 555-8308,Atlanta,GA,2022-02-05,Silver
+CUST-0283,Daniel Kim,,+1 214 555-8807,Dallas,TX,04/08/2024,platinum
+CUST-0359,Liam White ,Liam.White358@Example.Com,214-555-1732,  HOUSTON,TX,04/25/2024,Platinum
+CUST-0255,MEERA TAYLOR,,+1 214 555-4753,  Miami,FL,2022-03-19,  Bronze
+CUST-0456,James Thomas,James.Thomas455@Example.Com,+1 214 555-4981,Houston,TX,20-07-2023,GOLD
+CUST-0005,Oliver Khan,oliver.khan4@example.com,(214) 555-1519,Boston,MA,30-11-2023,Bronze
+CUST-0257,  Daniel Martin,Daniel.Martin256@Example.Com,+1 214 555-9174,Austin,TX,02/03/2022,SILVER
+CUST-0496,Oliver Thomas,Oliver.Thomas495@Example.Com,214-555-5351,Houston,TX,2024-03-10,SILVER
+CUST-0101,  Alexander Thomas,Alexander.Thomas100@Example.Com,(214) 555-3831,Dallas,TX,10/19/2024,Gold
+CUST-0227,Alexander Harris,,214-555-9419,Atlanta,GA,25-06-2024,Platinum
+CUST-0471,Henry Khan,HENRY.KHAN470@EXAMPLE.COM,+1 214 555-4535,Houston,TX,03/26/2024,Silver
+CUST-0214,Riya Martin,Riya.Martin213@Example.Com,(214) 555-1663,Denver,CO,09/03/2023,  platinum
+CUST-0466,Jack Anderson ,Jack.Anderson465@Example.Com,214-555-9700,Plano ,TX,10/16/2024,Gold
+CUST-0172,LIAM THOMAS,Liam.Thomas171@Example.Com,+1 214 555-7823,Frisco,TX,2023-09-06,Silver
+CUST-0099,Meera Thomas,Meera.Thomas98@Example.Com,+1 214 555-3862,Chicago,IL,02-09-2023,Bronze
+CUST-0293,Jack Harris,Jack.Harris292@Example.Com,214-555-9425,Atlanta,GA,08/20/2022,bronze
+CUST-0216,Lucas Gupta,Lucas.Gupta215@Example.Com,214-555-7501,Plano,TX,17-06-2023,Gold
+CUST-0062,Henry Patel,henry.patel61@example.com,214-555-4174,Seattle,WA,05/09/2023,Gold
+CUST-0048,Owen Anderson,OWEN.ANDERSON47@EXAMPLE.COM ,+1 214 555-4047,Austin,TX,08/12/2023,BRONZE
+CUST-0033,Liam Nguyen,  LIAM.NGUYEN32@EXAMPLE.COM,(214) 555-3563,austin,TX,2023-07-15,Bronze
+CUST-0268,Mason Wilson,mason.wilson267@example.com,+1 214 555-5382,Miami,FL,04/22/2023,Bronze
+CUST-0328,Maya Das,Maya.Das327@Example.Com,214-555-4737,,TX,08/02/2022,Bronze
+CUST-0201,Mason Moore,Mason.Moore200@Example.Com,(214) 555-5672,AUSTIN,TX,2023-09-02,platinum
+CUST-0493,henry singh,HENRY.SINGH492@EXAMPLE.COM,214-555-5502,Atlanta,GA,2022-07-05,Bronze
+CUST-0028,Alexander Nguyen ,,214-555-2753,Boston,MA,08/03/2023,Gold
+CUST-0472,Alexander Davis,Alexander.Davis471@Example.Com,214-555-4776,San Jose,CA,2023-10-17,
+CUST-0231,Riya Harris ,Riya.Harris230@Example.Com,214-555-3947,Boston,MA,12-07-2023,Bronze
+CUST-0261,tara singh,TARA.SINGH260@EXAMPLE.COM,(214) 555-6181,Atlanta,GA,11/13/2024,Gold
+CUST-0379,ISHITA TAYLOR,Ishita.Taylor378@Example.Com,(214) 555-4600,Denver,CO,07/23/2024,Bronze
+CUST-0289,james taylor,James.Taylor288@Example.Com,+1 214 555-8658,Denver,CO,02-06-2024,Gold
+CUST-0163,Oliver Patel,Oliver.Patel162@Example.Com,(214) 555-4978,Boston,MA,10-08-2022,Bronze
+CUST-0392,Priya Harris,priya harris@391,(214) 555-9305,PLANO,TX,09/02/2024,
+CUST-0469,PRIYA KULKARNI,PRIYA.KULKARNI468@EXAMPLE.COM,214-555-3531,ATLANTA,GA,12/07/2024,Silver
+CUST-0139,mason gupta,Mason.Gupta138@Example.Com,+1 214 555-1683,chicago,IL,2024-08-26,Gold
+CUST-0063,Mason Wilson,Mason.Wilson62@Example.Com,+1 214 555-6210,Austin,TX,10-09-2022,  Gold
+CUST-0136,Anya White,anya.white135@example.com,+1 214 555-9317,Phoenix,AZ,10/15/2024,Gold
+CUST-0129,KAVYA MOORE,Kavya.Moore128@Example.Com,214-555-3088,  ATLANTA,GA,2023-08-28,
+CUST-0357,noah lopez,Noah.Lopez356@Example.Com,(214) 555-2978,Phoenix,AZ,2022-07-16,Bronze
+CUST-0009,Ethan Khan,ETHAN.KHAN8@EXAMPLE.COM,214-555-1241,Houston,TX,2022-02-24,Platinum
+CUST-0327,ZARA WHITE,Zara.White326@Example.Com,214-555-6839,Chicago,IL,03/13/2022,Silver 
+CUST-0345,Rohan Sharma,Rohan.Sharma344@Example.Com,214-555-6587,,TX,06/01/2023,SILVER
+CUST-0065,OLIVER DAS,Oliver.Das64@Example.Com,214-555-7805,BOSTON,MA,12/30/2023,Platinum
+CUST-0301,mason sharma,Mason.Sharma300@Example.Com,(214) 555-3251,Chicago,IL,13-11-2022,gold
+CUST-0015,Aisha Menon,aisha.menon14@example.com,+1 214 555-6843,  Dallas,TX,01/12/2023,Gold
+CUST-0157,Sofia Martin,,214-555-3792,Austin,TX,2022-07-28,  silver
+CUST-0041,Noah Harris,Noah.Harris40@Example.Com,+1 214 555-5400,Irving,TX,05/10/2024,Silver
+CUST-0380,ZARA THOMAS,zara.thomas379@example.com,214-555-2730,Irving,TX,06-04-2024,Bronze
+CUST-0125,  Nisha Thomas,Nisha.Thomas124@Example.Com,+1 214 555-5553,  AUSTIN,TX,03/30/2022,Bronze 
+CUST-0452,Rohan Reddy,Rohan.Reddy451@Example.Com,+1 214 555-6762,SEATTLE,WA,09/20/2022,GOLD
+CUST-0217,LIAM MOORE,liam.moore216@example.com,+1 214 555-8205,AUSTIN ,TX,02/25/2023,platinum
+CUST-0410,Aarav Garcia,Aarav.Garcia409@Example.Com,(214) 555-9900,San Jose,CA,2022-01-30,
+CUST-0280,Liam Nair,Liam.Nair279@Example.Com,214-555-1547,Seattle,WA,09/01/2023,Platinum
+CUST-0481,Lucas Anderson,Lucas.Anderson480@Example.Com,214-555-1908,Chicago,IL,2023-04-19,Platinum 
+CUST-0477,Nisha Garcia,Nisha.Garcia476@Example.Com,(214) 555-7562,Austin,TX,10/07/2023,Platinum
+CUST-0338,Anya Singh,Anya.Singh337@Example.Com,(214) 555-3518,Houston ,TX,2022-07-11,Gold
+CUST-0237,Meera Harris,Meera.Harris236@Example.Com,(214) 555-8518,  Irving,TX,07/24/2024,GOLD
+CUST-0208,  sana anderson,,(214) 555-5345,  CHICAGO,IL,29-05-2023,Silver
+CUST-0213,Tara Harris,  Tara.Harris212@Example.Com,214-555-3309,Chicago,IL,2022-03-15,Gold
+CUST-0296,Diya Khan,Diya.Khan295@Example.Com,(214) 555-3294,Plano,TX,07/11/2023,Silver
+CUST-0105,Tara Iyer,Tara.Iyer104@Example.Com,,Houston,TX,20-07-2022,Platinum
+CUST-0252,Elijah Nguyen,Elijah.Nguyen251@Example.Com,+1 214 555-3782,Frisco,TX,01/18/2022,Bronze
+CUST-0337,jack iyer,jack.iyer336@example.com,(214) 555-4511,  Boston,MA,05/03/2023,Silver
+CUST-0395,  aisha martin,Aisha.Martin394@Example.Com,(214) 555-9188,Denver ,CO,03/06/2022,Bronze
+CUST-0304,OWEN KULKARNI,,+1 214 555-5056,SAN JOSE,CA,2024-11-25,PLATINUM
+CUST-0351,Diya Joshi,Diya.Joshi350@Example.Com,(214) 555-6472,Frisco,TX,01/19/2023,Gold
+CUST-0270,  KAVYA BROWN,Kavya.Brown269@Example.Com,214-555-9569,Houston ,TX,07/14/2023,Bronze
+CUST-0074,sofia patel,Sofia.Patel73@Example.Com,+1 214 555-9431,  Miami,FL,2023-12-01,Silver
+CUST-0202,Rohan Thomas,Rohan.Thomas201@Example.Com,(214) 555-8191,  Dallas,TX,2023-03-25,Bronze
+CUST-0162,Meera Martin,MEERA.MARTIN161@EXAMPLE.COM,(214) 555-9388,Atlanta,GA,03/26/2024,GOLD
+CUST-0044,Mason Singh,Mason.Singh43@Example.Com,(214) 555-6087,boston,MA,04/01/2023,Gold
+CUST-0218,Liam Wilson,Liam.Wilson217@Example.Com,(214) 555-5357,  DALLAS,TX,06/02/2024,
+CUST-0402,Tara Patel,Tara.Patel401@Example.Com,+1 214 555-2717,  DALLAS,TX,28-10-2024,  Bronze
+CUST-0191,Daniel Joshi,Daniel.Joshi190@Example.Com,(214) 555-2479,seattle,WA,06/17/2022,Platinum
+CUST-0310,Sofia Joshi,Sofia.Joshi309@Example.Com,+1 214 555-1525,miami,FL,2024-05-05,Gold
+CUST-0260,Kavya Harris,,214-555-2157,SEATTLE,WA,07/04/2023,Bronze
+CUST-0106,tara taylor,TARA.TAYLOR105@EXAMPLE.COM,(214) 555-2468,Miami,FL,03/05/2024,SILVER
+CUST-0054,Elijah Reddy,elijah.reddy53@example.com,(214) 555-5350,Frisco,TX,09/29/2023,Silver
+CUST-0390,NOAH KHAN,noah.khan389@example.com,+1 214 555-4874,Frisco,TX,2024-06-13,Platinum
+CUST-0002,  Tara Jackson,Tara.Jackson1@Example.Com,,Dallas,TX,05/24/2024,Gold
+CUST-0488,Diya Reddy,Diya.Reddy487@Example.Com,(214) 555-9165,Phoenix ,AZ,04/02/2022,Gold 
+CUST-0360,Henry Iyer,  Henry.Iyer359@Example.Com,+1 214 555-1253,Austin ,TX,2024-10-26,Platinum
+CUST-0050,Tara White,Tara.White49@Example.Com,214-555-9562,,TX,04/25/2023,Bronze
+CUST-0420,  DIYA JACKSON,Diya.Jackson419@Example.Com,,Denver,CO,2023-10-01,Platinum
+CUST-0081,Jack Garcia,Jack.Garcia80@Example.Com,214-555-6438,Miami,FL,03/13/2023,Platinum
+CUST-0206,ZARA TAYLOR,Zara.Taylor205@Example.Com,+1 214 555-2659,San Jose ,CA,2024-01-26,Silver
+CUST-0035,Owen Anderson,Owen.Anderson34@Example.Com ,+1 214 555-6066,ATLANTA ,GA,04/12/2023,Silver
+CUST-0431,Liam Taylor ,Liam.Taylor430@Example.Com,(214) 555-3139,Irving,TX,2024-03-10,Platinum
+CUST-0264,Rohan Menon,Rohan.Menon263@Example.Com,+1 214 555-8903,Miami,FL,09/27/2023,Silver
+CUST-0428,  Alexander Reddy,Alexander.Reddy427@Example.Com,214-555-9965,irving,TX,2022-04-02,Bronze
+CUST-0455,Kavya Gupta,KAVYA.GUPTA454@EXAMPLE.COM,214-555-4409,  Frisco,TX,11/08/2024,Silver
+CUST-0444,Elijah Wilson,Elijah.Wilson443@Example.Com,+1 214 555-5074,Atlanta,GA,2024-12-30,bronze
+CUST-0367,Elijah Iyer,Elijah.Iyer366@Example.Com,214-555-4710,Dallas,TX,09/12/2022,PLATINUM
+CUST-0092,Alexander Kulkarni,alexander.kulkarni91@example.com,+1 214 555-8158,Houston,TX,11/20/2022,  Platinum
+CUST-0340,Jack Kulkarni,Jack.Kulkarni339@Example.Com,214-555-6649,Houston,TX,12/28/2024,Platinum
+CUST-0491,ROHAN JOHNSON,rohan.johnson490@example.com,214-555-5666,  Dallas,TX,10/09/2023,Bronze
+CUST-0053,Mason Iyer,mason iyer@52,214-555-7336,Phoenix,AZ,25-02-2024,Bronze
+CUST-0346,Zara Sharma,Zara.Sharma345@Example.Com ,214-555-5231,Austin,TX,10/02/2022,Platinum
+CUST-0265,Sana Johnson,SANA.JOHNSON264@EXAMPLE.COM,+1 214 555-6143,,CO,11/16/2024,Silver
+CUST-0242,Kavya Martin,Kavya.Martin241@Example.Com,+1 214 555-4740,DENVER,CO,23-10-2023,
+CUST-0014,Henry Iyer,Henry.Iyer13@Example.Com,(214) 555-9303,Plano,TX,2023-07-12,Silver
+CUST-0316,Meera Nair,Meera.Nair315@Example.Com,214-555-7339,Chicago,IL,2024-09-16,Silver
+CUST-0089,Tara Nair ,Tara.Nair88@Example.Com,(214) 555-4060,Boston,MA,26-11-2022,Platinum
+CUST-0388,Alexander Singh,alexander.singh387@example.com,(214) 555-3743,Chicago,IL,2024-01-15,SILVER
+CUST-0274,Jack Harris,Jack.Harris273@Example.Com,(214) 555-7766,Chicago,IL,02/13/2024,Bronze
+CUST-0167,Anya Moore,anya.moore@,+1 214 555-2877,Boston,MA,26-01-2023,PLATINUM
+CUST-0329,Noah Nair,Noah.Nair328@Example.Com,(214) 555-1140,Plano,TX,03/24/2022,  Gold
+CUST-0003,Meera Menon,  MEERA.MENON2@EXAMPLE.COM,214-555-9432,irving,TX,07/20/2023,  Gold
+CUST-0135,Tara Singh ,Tara.Singh134@Example.Com,+1 214 555-1777,Miami,FL,07/23/2023,Gold
+CUST-0307,ANYA TAYLOR,Anya.Taylor306@Example.Com ,(214) 555-9349,Houston,TX,01/25/2023,gold
+CUST-0485,Riya Anderson,Riya.Anderson484@Example.Com ,214-555-7180,houston,TX,2022-05-11,Gold
+CUST-0462,Noah Davis,Noah.Davis461@Example.Com,(214) 555-5923,Frisco,TX,02/17/2024,Gold 
+CUST-0320,Tara Joshi,Tara.Joshi319@Example.Com,(214) 555-9395,Atlanta,GA,2023-09-26,Bronze
+CUST-0244,Meera Khan,Meera.Khan243@Example.Com,(214) 555-2949,houston,TX,28-10-2022,Silver
+CUST-0055,Elijah Joshi,Elijah.Joshi54@Example.Com,(214) 555-3914,ATLANTA,GA,2022-02-28,PLATINUM
+CUST-0364,OWEN GUPTA,owen.gupta363@example.com,+1 214 555-5202,Frisco,TX,07/24/2023,Platinum
+CUST-0051,Henry Iyer,Henry.Iyer50@Example.Com,+1 214 555-9636,Boston,MA,06/01/2023,Bronze
+CUST-0156,Meera Moore,Meera.Moore155@Example.Com,(214) 555-6576,  Atlanta,GA,09/10/2022,Silver
+CUST-0175,DANIEL THOMAS,  daniel.thomas174@example.com,,Frisco,TX,07/23/2022,Silver
+CUST-0446,Meera Kim,Meera.Kim445@Example.Com,+1 214 555-2995,,TX,02/01/2024,Platinum
+CUST-0190,Anya Gupta,Anya.Gupta189@Example.Com,,Dallas,TX,2023-07-01,SILVER
+CUST-0071,Tara Menon,Tara.Menon70@Example.Com,,Plano,TX,13-12-2022,Platinum
+CUST-0464,Oliver Chen,Oliver.Chen463@Example.Com,(214) 555-3637,SAN JOSE,CA,04/07/2024,Platinum
+CUST-0188,Ishita Anderson,Ishita.Anderson187@Example.Com ,214-555-8537,,TX,03/28/2024,silver
+CUST-0476,TARA CHEN,Tara.Chen475@Example.Com,(214) 555-4324,Houston,TX,04-05-2024,  Silver
+CUST-0170,Aarav Kim ,Aarav.Kim169@Example.Com,214-555-6489,,MA,10/13/2022,  Gold
+CUST-0010,  Liam Lopez,  Liam.Lopez9@Example.Com,214-555-7298,Frisco,TX,2023-04-14,Gold
+CUST-0059,HENRY GUPTA,HENRY.GUPTA58@EXAMPLE.COM ,+1 214 555-6747,Frisco,TX,02/10/2022,Gold
+CUST-0475,Meera Nguyen,Meera.Nguyen474@Example.Com,(214) 555-2406,Chicago,IL,06/05/2023,Silver
+CUST-0253,  Priya Garcia,Priya.Garcia252@Example.Com ,+1 214 555-3858,  Houston,TX,07/15/2024,PLATINUM
+CUST-0022,Ishita Nguyen,,+1 214 555-7730,Seattle,WA,2024-02-16,Platinum
+CUST-0314,LUCAS KHAN ,Lucas.Khan313@Example.Com,214-555-7125,,TX,19-10-2024,Gold
+CUST-0460,Sofia Davis,Sofia.Davis459@Example.Com,214-555-4300,Boston,MA,11/18/2023,Platinum
+CUST-0161,  Sana Singh,Sana.Singh160@Example.Com,+1 214 555-8439,Phoenix,AZ,05/07/2023,Platinum
+CUST-0277,ELIJAH DAVIS ,elijah.davis276@example.com,,Denver,CO,09-04-2023,Bronze 
+CUST-0192,Benjamin Gupta,Benjamin.Gupta191@Example.Com,(214) 555-8157,Denver,CO,21-06-2024,Silver
+CUST-0386,Sofia Martin,,(214) 555-5270,san jose,CA,02/15/2022,Gold
+CUST-0414,Sofia Joshi,  Sofia.Joshi413@Example.Com,+1 214 555-4103,Houston,TX,11-10-2022,Platinum
+CUST-0492,owen taylor,,214-555-8448,Dallas,TX,08/19/2022,Platinum
+CUST-0344,Diya Patel,Diya.Patel343@Example.Com,214-555-6618,Houston,TX,2024-06-16,Silver
+CUST-0309,Anya Brown,ANYA.BROWN308@EXAMPLE.COM,214-555-1795,Austin,TX,05-11-2023,PLATINUM
+CUST-0131,James Martin,James.Martin130@Example.Com,,HOUSTON,TX,2024-07-04,  Bronze
+CUST-0100,NOAH JACKSON,Noah.Jackson99@Example.Com,(214) 555-6265,San Jose,CA,15-12-2024,Gold
+CUST-0373,Oliver Kim,Oliver.Kim372@Example.Com,,DALLAS,TX,11/10/2023,silver
+CUST-0088,Anya Garcia,Anya.Garcia87@Example.Com,+1 214 555-3630,  Denver,CO,2024-02-13,Gold 
+CUST-0459,Nisha Joshi,Nisha.Joshi458@Example.Com,214-555-3173,,TX,06/17/2023,
+CUST-0331,JAMES LOPEZ,James.Lopez330@Example.Com,(214) 555-1181,PHOENIX,AZ,2023-10-08,Silver 
+CUST-0215,henry kulkarni,Henry.Kulkarni214@Example.Com,214-555-8127,Dallas,TX,07/08/2022,  Silver
+CUST-0467,Noah Thomas,Noah.Thomas466@Example.Com,+1 214 555-2453,Irving,TX,12/24/2023,Gold
+CUST-0122,Daniel Wilson,DANIEL.WILSON121@EXAMPLE.COM,214-555-5710,chicago,IL,03/18/2022,SILVER
+CUST-0021,Diya Johnson,,+1 214 555-6311,Denver,CO,2024-04-10,  Silver
+CUST-0072,Priya Davis,Priya.Davis71@Example.Com,,houston,TX,11-03-2023,Silver
+CUST-0107,Tara Reddy ,Tara.Reddy106@Example.Com,+1 214 555-4818,Austin,TX,2024-04-25,Platinum 
+CUST-0271,Lucas Jackson,LUCAS.JACKSON270@EXAMPLE.COM,214-555-4432,Atlanta,GA,13-06-2024,  BRONZE
+CUST-0436,  Sofia Menon,Sofia.Menon435@Example.Com,+1 214 555-8665,Chicago,IL,05/13/2023,Silver
+CUST-0103,Alexander Martin,  Alexander.Martin102@Example.Com,214-555-2215,  san jose,CA,2024-01-14,Bronze

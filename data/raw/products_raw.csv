@@ -1,0 +1,64 @@
+product_id,product_name,category,subcategory,list_price,cost
+PROD-006,Mechanical Keyboard ,Electronics,accessories,122.18,55.12
+PROD-058,Power Strip ,Electronics,accessories,24.46,9.47
+PROD-001,Wireless Headphones,Electronics,Audio,132.04,58.66
+PROD-044,Monitor Arm,Electronics,Accessories,78.35,99.16
+PROD-006,Mechanical Keyboard ,Electronics,accessories,122.18,55.12
+PROD-037,Resistance Bands,Sports,Fitness,24.78,8.03
+PROD-017,YOGA PANTS,Clothing,Bottoms,34.18,12.03
+PROD-013,Winter Jacket,  Clothing,outerwear,146.83,56.62
+PROD-026,BLENDER,Home & Kitchen ,Appliances,69.3,27.23
+PROD-001,Wireless Headphones,Electronics,Audio,132.04,58.66
+PROD-056,Tennis Balls,Sports,RACQUET SPORTS,13.31,15.07
+PROD-010,  Webcam Hd,Electronics,Accessories,91.11,38.61
+PROD-041,Tablet ,ELECTRONICS,Computers,322.73,165.73
+PROD-014,Running Shoes,  CLOTHING,Footwear,107.66,46.94
+PROD-035,Camping Tent,SPORTS ,outdoor,205.02,96.29
+PROD-050,cutting board,Home & Kitchen,kitchenware,25.01,8.7
+PROD-004,  Laptop Stand,Electronics,  Accessories,51.36,20.03
+PROD-018,Sneakers,Clothing,Footwear,91.71,35.13
+PROD-049,SLOW COOKER,home & kitchen,Appliances,59.21,24.56
+PROD-009,PORTABLE CHARGER,Electronics,Accessories,30.35,11.85
+PROD-007,4K Monitor ,Electronics,Displays,340.4,170.16
+PROD-034,Basketball,Sports,Team Sports,34.54,13.89
+PROD-005,Usb-C Hub,Electronics,Accessories,40.33,13.75
+PROD-047,RAIN JACKET ,Clothing,Outerwear,118.65,46.03
+PROD-020,Baseball Cap,Clothing,Accessories,20.55,24.95
+PROD-054,Pickleball Set,Sports,Racquet Sports,90.85,38.16
+PROD-042,E-Reader,ELECTRONICS,Computers,137.14,65.76
+PROD-055,Cooler,Sports,OUTDOOR,102.08,
+PROD-032,  DUMBBELL SET,Sports,Fitness,149.42,66.24
+PROD-031,Yoga Mat,Sports,Fitness,29.29,10.19
+PROD-059,Polo Shirt,Clothing,Tops,34.88,12.89
+PROD-060,Chinos,Clothing,Bottoms,49.4,
+PROD-016,Dress Shirt,Clothing,TOPS,39.26,13.73
+PROD-028,  Desk Lamp,Home & Kitchen,Decor ,35.04,13.29
+PROD-027,Cookware Set,Home & Kitchen,Kitchenware,162.83,67.65
+PROD-025,vacuum cleaner,Home & Kitchen,appliances,197.21,92.05
+PROD-046,Cargo Shorts,Clothing,Bottoms,39.78,43.13
+PROD-012,Denim Jeans,CLOTHING,  BOTTOMS,61.21,22.6
+PROD-033,tennis racket,Sports,Racquet Sports,128.72,55.35
+PROD-057,smart speaker,Electronics,Audio,97.27,45.66
+PROD-045,GRAPHIC T-SHIRT ,Clothing,Tops,30.29,9.51
+PROD-038,soccer ball,Sports,Team Sports,30.84,10.97
+PROD-030,  Bath Towels,HOME & KITCHEN,Bath,40.07,15.42
+PROD-048,Trail Shoes,Clothing,Footwear,127.85,53.8
+PROD-002,Smart Watch,Electronics,Wearables,252.79,114.04
+PROD-022,Air Fryer,  Home & Kitchen,  Appliances,117.39,53.39
+PROD-003,Bluetooth Speaker ,Electronics,Audio,78.15,34.53
+PROD-051,duvet cover,Home & Kitchen,BEDDING,71.48,26.55
+PROD-040,water bottle,Sports,Accessories,19.72,7.05
+PROD-036,Hiking Backpack,Sports,  Outdoor,120.05,51.35
+PROD-024,Bedding Set,HOME & KITCHEN,Bedding,97.2,116.52
+PROD-053,Jump Rope ,Sports,Fitness,15.22,18.7
+PROD-011,Cotton T-Shirt,Clothing,Tops,25.23,8.19
+PROD-023,knife set,Home & Kitchen,Kitchenware,77.95,
+PROD-019,Wool Sweater,CLOTHING,Tops,70.27,26.01
+PROD-037,Resistance Bands,Sports,Fitness,24.78,8.03
+PROD-021,Coffee Maker,Home & Kitchen,Appliances,92.22,37.74
+PROD-008,Noise Cancelling Earbuds ,ELECTRONICS,AUDIO,148.56,
+PROD-043,Gaming Mouse,electronics,Accessories,58.94,23.09
+PROD-015,  Hoodie,Clothing,Tops,45.66,16.03
+PROD-029,  THROW PILLOWS,Home & Kitchen,Decor,30.37,10.99
+PROD-052,  Wall Clock,Home & Kitchen,DECOR,46.32,17.61
+PROD-039,Golf Clubs Set,Sports,Golf,399.1,184.43
